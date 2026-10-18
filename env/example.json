@@ -1,0 +1,6 @@
+{
+  "BACKEND": "api",
+  "API_BASE_URL": "https://onmyway-next.vercel.app",
+  "SUPABASE_URL": "https://<project-ref>.supabase.co",
+  "SUPABASE_PUBLISHABLE_KEY": "sb_publishable_..."
+}
